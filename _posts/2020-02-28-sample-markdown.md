@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
+title: Some of the best ones
+subtitle: here we go..
+gh-repo:
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [com, io, org, Hacks, Keywords, Brandables]
 comments: true
 mathjax: true
-author: Bill Smith
+author: Storm Hawk
 ---
 
 {: .box-success}
