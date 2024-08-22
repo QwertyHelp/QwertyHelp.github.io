@@ -50,11 +50,11 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "hussain@example.com"
+  email: "QwertyDomains@gmail.com"
   # remove this line if you don't want to show an RSS link at the bottom
-  facebook: hussain
+# facebook: hussain
   twitter: QwertyDomains
-  youtube: "@hussain"
+# youtube: "@hussain"
   whatsapp: (+919111941112)
 #  medium: yourname
 #  reddit: yourname
@@ -95,7 +95,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "QwertyDomains.com"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
