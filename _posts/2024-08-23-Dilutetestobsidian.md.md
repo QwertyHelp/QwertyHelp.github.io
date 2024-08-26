@@ -1,13 +1,11 @@
 ---
 layout: post
-title: Diluteobsidian.AI
-subtitle: Simplifying obsidian
-thumbnail-img: /assets/img/flow.jpg
+title: SchoolOver.com
+subtitle: Education online
 gh-repo: 
 gh-badge: [star, fork, follow]
-tags: [AI, Tech, Keyword]
+tags: [Education, Tech, Keyword]
 comments: true
 author: Storm Hawk
 ---
 
-Human friendly AI
