@@ -14,11 +14,11 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 <details>
   <summary>RevCharge.IO</summary>
   
-  **RevCharge.IO** is at the forefront of green energy innovation. This domain is ideal for:
+  **RevCharge.IO** is at the forefront of green energy innovation. This domain is ideal for:  
 
-  - **EV Charging Solutions**: Providing state-of-the-art electric vehicle charging technology.
-  - **Sustainable Energy**: Promoting the use of renewable energy sources.
-  - **Smart Infrastructure**: Developing a comprehensive network of EV charging stations.
+  - **EV Charging Solutions**: Providing state-of-the-art electric vehicle charging technology.  
+  - **Sustainable Energy**: Promoting the use of renewable energy sources.  
+  - **Smart Infrastructure**: Developing a comprehensive network of EV charging stations.  
 
 </details>
 
@@ -26,11 +26,11 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 <details>
   <summary>Pivoter.org</summary>
   
-  **Pivoter.org** is designed to support startups and entrepreneurs looking to pivot their business models. Ideal use cases include:
+  **Pivoter.org** is designed to support startups and entrepreneurs looking to pivot their business models. Ideal use cases include:  
 
-  - **Business Consultancy**: Offering guidance on strategic pivots and business transformations.
-  - **Educational Hub**: Providing resources, articles, and success stories on effective pivot strategies.
-  - **Networking Platform**: Connecting entrepreneurs with mentors and peers.
+  - **Business Consultancy**: Offering guidance on strategic pivots and business transformations.  
+  - **Educational Hub**: Providing resources, articles, and success stories on effective pivot strategies.  
+  - **Networking Platform**: Connecting entrepreneurs with mentors and peers.  
 
 </details>
 
@@ -38,11 +38,11 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 <details>
   <summary>Pivoters.org</summary>
   
-  **Pivoters.org** focuses on building a community of innovators and entrepreneurs. It’s perfect for:
+  **Pivoters.org** focuses on building a community of innovators and entrepreneurs. It’s perfect for:  
 
-  - **Community Building**: Creating a space for like-minded individuals to share experiences and insights.
-  - **Support Network**: Offering peer support and collaborative opportunities for startups.
-  - **Event Hosting**: Organizing webinars, workshops, and networking events.
+  - **Community Building**: Creating a space for like-minded individuals to share experiences and insights.  
+  - **Support Network**: Offering peer support and collaborative opportunities for startups.  
+  - **Event Hosting**: Organizing webinars, workshops, and networking events.  
 
 </details>
 
@@ -50,11 +50,11 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 <details>
   <summary>TryQ.org</summary>
   
-  **TryQ.org** is dedicated to fostering curiosity and encouraging hands-on learning. This domain is best suited for:
+  **TryQ.org** is dedicated to fostering curiosity and encouraging hands-on learning. This domain is best suited for:  
 
-  - **Educational Programs**: Offering interactive courses and workshops in various fields.
-  - **Innovation Labs**: Creating spaces for experimentation and prototyping.
-  - **STEM Initiatives**: Promoting science, technology, engineering, and mathematics education.
+  - **Educational Programs**: Offering interactive courses and workshops in various fields.  
+  - **Innovation Labs**: Creating spaces for experimentation and prototyping.  
+  - **STEM Initiatives**: Promoting science, technology, engineering, and mathematics education.  
 
 </details>
 
@@ -62,11 +62,11 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 <details>
   <summary>Comparer.IO</summary>
   
-  **Comparer.IO** is your go-to platform for comprehensive comparisons. Ideal applications include:
+  **Comparer.IO** is your go-to platform for comprehensive comparisons. Ideal applications include:  
 
-  - **Product Reviews**: Providing in-depth comparisons of products and services.
-  - **Financial Comparisons**: Helping users choose the best financial products like credit cards, loans, and insurance.
-  - **Travel Comparisons**: Offering comparisons of flights, hotels, and travel packages.
+  - **Product Reviews**: Providing in-depth comparisons of products and services.  
+  - **Financial Comparisons**: Helping users choose the best financial products like credit cards, loans, and insurance.  
+  - **Travel Comparisons**: Offering comparisons of flights, hotels, and travel packages.  
 
 </details>
 
