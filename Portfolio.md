@@ -12,6 +12,7 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 
 ### RevCharge.IO
 <details>
+  <summary>RevCharge.IO</summary>
   <p><strong>RevCharge.IO</strong> is at the forefront of green energy innovation. This domain is ideal for:</p>
   <ul>
     <li><strong>EV Charging Solutions:</strong> Providing state-of-the-art electric vehicle charging technology.</li>
