@@ -20,8 +20,8 @@ author: Storm Hawk
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
   Portfolio: "Portfolio"
+  About Me: "aboutme"
 # Author's home: "https://deanattali.com"
 
 ################
