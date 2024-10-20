@@ -21,6 +21,7 @@ author: Storm Hawk
 
 navbar-links:
   About Me: "aboutme"
+  Portfolio: "Portfolio"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
