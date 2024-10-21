@@ -1,6 +1,10 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>Qwerty Domains</title>
+    <!-- Other head elements -->
+    <!-- Favicon -->
+    <link rel="icon" href="assets/img/favicon.ico" type="image/x-icon">
 
   {% capture pagetitle %}
     {%- if page.share-title -%}
@@ -161,11 +165,11 @@
   <link rel="stylesheet" href="{{ "/assets/css/staticman.css" | relative_url }}">
   {% endif %}
 
-  {% assign favicon_exists = site.static_files | where: "path", "/favicon.ico" | size %}
+  {% assign favicon_exists = site.static_files | where: "path", "/assets/img/favicon.ico" | size %}
   {% if favicon_exists == 1 %}
-  <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" />
+  <link rel="icon" href="{{ '/assets/img/favicon.ico' | relative_url }}" />
   {% endif %}
-
+  
   {% if page.head-extra %}
     {% for file in page.head-extra %}
       {% include {{ file }} %}
