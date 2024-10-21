@@ -12,7 +12,7 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 
 ### RevCharge.IO
 <details>
-  <summary>RevCharge.IO</summary>
+  <summary>Leading Green Energy Innovation</summary>
   <p><strong>RevCharge.IO</strong> is at the forefront of green energy innovation. This domain is ideal for:</p>
   <ul>
     <li><strong>EV Charging Solutions:</strong> Providing state-of-the-art electric vehicle charging technology.</li>
@@ -23,7 +23,7 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 
 ### Pivoter.org
 <details>
-  <summary>Pivoter.org</summary>
+  <summary>Transforming Business Models</summary>
   <p><strong>Pivoter.org</strong> is designed to support startups and entrepreneurs looking to pivot their business models. Ideal use cases include:</p>
   <ul>
     <li><strong>Business Consultancy:</strong> Offering guidance on strategic pivots and business transformations.</li>
@@ -34,7 +34,7 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 
 ### Pivoters.org
 <details>
-  <summary>Pivoters.org</summary>
+  <summary>Community of Innovators</summary>
   <p><strong>Pivoters.org</strong> focuses on building a community of innovators and entrepreneurs. It’s perfect for:</p>
   <ul>
     <li><strong>Community Building:</strong> Creating a space for like-minded individuals to share experiences and insights.</li>
@@ -45,7 +45,7 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 
 ### TryQ.org
 <details>
-  <summary>TryQ.org</summary>
+  <summary>Inspiring Curiosity</summary>
   <p><strong>TryQ.org</strong> is dedicated to fostering curiosity and encouraging hands-on learning. This domain is best suited for:</p>
   <ul>
     <li><strong>Educational Programs:</strong> Offering interactive courses and workshops in various fields.</li>
