@@ -67,6 +67,6 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 
 ---
 
-Explore more about our domains and the innovative solutions they offer. For inquiries, feel free to contact us at [contact@example.com](mailto:contact@example.com).
+Explore more about our domains and the innovative solutions they offer. For inquiries, feel free to contact us. [Here's Our Mail](mailto:QwertyDomains@Gmail.com).
 
 Stay connected and follow us on our journey to revolutionize various industries with our top-notch domains.
