@@ -13,7 +13,6 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 ### RevCharge.IO
 <details>
   <summary><em>Leading Green Energy Innovation</em></summary>
-  
   <p><strong>RevCharge.IO</strong> is at the forefront of green energy innovation. This domain is ideal for:</p>
   <ul>
     <li><strong>EV Charging Solutions:</strong> Providing state-of-the-art electric vehicle charging technology.</li>
@@ -25,7 +24,6 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 ### Pivoter.org
 <details>
   <summary><em>Transforming Business Models</em></summary>
-  
   <p><strong>Pivoter.org</strong> is designed to support startups and entrepreneurs looking to pivot their business models. Ideal use cases include:</p>
   <ul>
     <li><strong>Business Consultancy:</strong> Offering guidance on strategic pivots and business transformations.</li>
@@ -37,7 +35,6 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 ### Pivoters.org
 <details>
   <summary><em>Community of Innovators</em></summary>
-  
   <p><strong>Pivoters.org</strong> focuses on building a community of innovators and entrepreneurs. It’s perfect for:</p>
   <ul>
     <li><strong>Community Building:</strong> Creating a space for like-minded individuals to share experiences and insights.</li>
@@ -49,7 +46,6 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 ### TryQ.org
 <details>
   <summary><em>Inspiring Curiosity</em></summary>
-  
   <p><strong>TryQ.org</strong> is dedicated to fostering curiosity and encouraging hands-on learning. This domain is best suited for:</p>
   <ul>
     <li><strong>Educational Programs:</strong> Offering interactive courses and workshops in various fields.</li>
@@ -61,7 +57,6 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 ### Comparer.IO
 <details>
   <summary><em>Your Comparison Hub</em></summary>
-  
   <p><strong>Comparer.IO</strong> is your go-to platform for comprehensive comparisons. Ideal applications include:</p>
   <ul>
     <li><strong>Product Reviews:</strong> Providing in-depth comparisons of products and services.</li>
