@@ -56,7 +56,7 @@ Welcome to our portfolio page. Here, we highlight some of our premium domains an
 
 ### Comparer.IO
 <details>
-  <summary>Comparer.IO</summary>
+  <summary>Your Comparison Hub</summary>
   <p><strong>Comparer.IO</strong> is your go-to platform for comprehensive comparisons. Ideal applications include:</p>
   <ul>
     <li><strong>Product Reviews:</strong> Providing in-depth comparisons of products and services.</li>
