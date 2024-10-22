@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Qwerty Domains
 subtitle: Storm Hawk's Portfolio
 ---
@@ -66,6 +66,6 @@ Welcome. Here, we highlight some of our premium domains and their potential real
 
 ---
 
-Explore more about our domains and the innovative solutions they offer. For inquiries, feel free to contact us.  [Here's Our Mail](mailto:QwertyDomains@Gmail.com).
+Explore more about our domains and the innovative solutions they offer. For inquiries, feel free to contact us. [Here's the Mail](mailto:QwertyDomains@Gmail.com).
 
 Stay connected and follow us on our journey to revolutionize various industries with our top-notch domains.
