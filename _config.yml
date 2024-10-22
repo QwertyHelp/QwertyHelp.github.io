@@ -19,8 +19,24 @@ author: Storm Hawk
 # --- List of links in the navigation bar --- #
 ###############################################
 
+header_pages:
+  - index.md
+
+# navbar-links:
+#  - title: "Home"
+#    url: "/"
+#  - title: "Blog"
+#    url: "/blog/"
+#  - title: "About"
+#    url: "/about/"
+#  - title: "Contact"
+#   url: "/contact/"
+  
+
+
 navbar-links:
   Portfolio: "Portfolio"
+  Blog: "Blog"
   Contact: "Contact"
 # Author's home: "https://deanattali.com"
 
