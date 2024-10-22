@@ -16,8 +16,8 @@ title: Qwerty Domains
 author: Storm Hawk
 
 
-header_pages:
-  - index.md
+#header_pages:
+#  - index.md
 
 ###############################################
 # --- List of links in the navigation bar --- #
