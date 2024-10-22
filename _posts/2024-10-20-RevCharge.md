@@ -1,10 +1,10 @@
 ---
-layout: page
-title: "RevCharge.IO - Pioneering Green Energy"
-date: 2024-10-20
-author: Cosmo
+layout: post
+title: RevCharge.IO
+subtitle: Pioneering Green Energy
 categories: marketing
 tags: [Green Energy, EV Charging, Sustainability, Infrastructure]
+author: Cosmo
 ---
 
 # Welcome to RevCharge.IO
