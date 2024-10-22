@@ -1,9 +1,10 @@
-# ---
-# layout: page
-# title: "Domain Portfolio"
-# ---
+---
+layout: home
+title: Qwerty Domains
+subtitle: Storm Hawk's Portfolio
+---
 
-Welcome to our portfolio page. Here, we highlight some of our premium domains and their potential real-world applications.
+Welcome. Here, we highlight some of our premium domains and their potential real-world applications.
 
 ## Featured Domains
 
