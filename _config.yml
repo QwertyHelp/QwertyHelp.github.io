@@ -15,12 +15,13 @@ title: Qwerty Domains
 # Your name to show in the footer
 author: Storm Hawk
 
-###############################################
-# --- List of links in the navigation bar --- #
-###############################################
 
 header_pages:
   - index.md
+
+###############################################
+# --- List of links in the navigation bar --- #
+###############################################
 
 # navbar-links:
 #  - title: "Home"
