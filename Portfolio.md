@@ -6,7 +6,7 @@ permalink: /Portfolio
 
 # Our Portfolio
 
-Welcome to our portfolio page. Here, we highlight some of our premium domains and their potential real-world applications.
+This is our Portfolio. Highlighted are some of our Domains and their potential real-world applications. The page will be updated with complete list of Domains soon!
 
 ## Featured Domains
 
