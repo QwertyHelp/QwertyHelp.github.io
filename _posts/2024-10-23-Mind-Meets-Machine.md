@@ -3,7 +3,7 @@ layout: post
 title: Mind Meets Machine
 subtitle: The Intersection of Neurology and AI
 author: Jaguar and Cosmo
-date: 2024-10-23 12:34:56
+date: 2024-10-23
 tags: [neurology, AI, brain, neuroscience, technology, healthcare, future]
 ---
 
