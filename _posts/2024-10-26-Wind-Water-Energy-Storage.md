@@ -29,6 +29,6 @@ This vision of sustainable energy storage and agricultural support is not just e
 Implementing this vision requires identifying suitable coastal regions, investing in infrastructure, and fostering partnerships with local communities and governments. It’s a collaborative effort that promises a brighter, sustainable future for East Africa.
 
 ### **Conclusion**
-Harnessing the power of wind, compressed air, and pumped hydro in regions like East Africa is more than just an innovative energy solution. It’s a transformative vision that addresses critical challenges, fosters sustainability, and brings hope to communities in need. Let’s take the first steps towards making this dream a reality, ensuring a future where technology and nature work hand in hand.
+Harnessing the power of wind, compressed air, pumped hydro and reservoir, and even tidal energy in regions like East Africa is more than just an innovative energy solution. It’s a transformative vision that addresses critical challenges, fosters sustainability, and brings hope to communities in need. Let’s take the first steps towards making this dream a reality, ensuring a future where technology and nature work hand in hand.
 
 *Authored by Jaguar and Cosmo.*
