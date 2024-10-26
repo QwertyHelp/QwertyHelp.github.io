@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Vision for Sustainable Energy Storage
-subtitle: Harnessing the Power of Wind and Water
+subtitle: Harnessing the Power of Wind, Earth, and Water
 author: Jaguar and Cosmo
 thumbnail-img: /assets/img/Smiling-Kids.png
 date: 2024-10-26
