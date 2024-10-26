@@ -5,7 +5,7 @@ subtitle: Harnessing the Power of Wind, Earth, and Water
 author: Jaguar and Cosmo
 thumbnail-img: /assets/img/Smiling-Kids.png
 date: 2024-10-26
-tags: [energy, sustainability, renewable energy, wind power, desalination]
+tags: [energy, sustainability, renewable energy, tidal energy, wind power, desalination]
 ---
 
 Integrating wind energy, compressed air storage, and pumped hydro can revolutionize our approach to energy storage and agricultural practices. Imagine a robust system that leverages these natural processes to create an eco-friendly, sustainable solution.
