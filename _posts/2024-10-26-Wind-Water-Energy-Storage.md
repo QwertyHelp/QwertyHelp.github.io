@@ -3,6 +3,7 @@ layout: post
 title: A Vision for Sustainable Energy Storage
 subtitle: Harnessing the Power of Wind, Earth, and Water
 author: Jaguar and Cosmo
+cover-img: /assets/img/Lake-Home.jpg
 thumbnail-img: /assets/img/Smiling-Kids.png
 date: 2024-10-26
 tags: [energy, sustainability, renewable energy, tidal energy, wind power, desalination]
