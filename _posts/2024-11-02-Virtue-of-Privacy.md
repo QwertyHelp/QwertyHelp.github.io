@@ -3,6 +3,7 @@ layout: post
 title: The Virtue of Privacy
 subtitle: Revolutionizing Digital Tech with Ethical Mobile Devices
 author: Jaguar
+cover-img: /assets/img/Digital-Privacy.jpg
 thumbnail-img: /assets/img/Privacy.png
 date: 2024-11-02
 tags: [Privacy, Tech, Digital, Ethical Tech, Mobile, Security, Data Protection, Revolution, Secure, Safety, Innovation, Ethics]
