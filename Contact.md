@@ -9,13 +9,12 @@ I am Storm Hawk.
 - If there's any name that caught your eye, you can buy it directly on the respective domain's landing page.
 - If you need any information, feel free to reach out! I'll be glad to assist.
 
-
-<!-- This is a comment and will not be rendered in the output. -->
-
-<!-- ### My story
+### My story
 
 Writing it as of now . . . _ _ !@#$%^&*# /\ ??
+<!-- This is a comment and will not be rendered in the output. -->
 
+<!-- 
 Feel free to reach out to us with any questions or comments. We're here to help!
 
 ## Our Office
@@ -23,7 +22,7 @@ Feel free to reach out to us with any questions or comments. We're here to help!
 1234 Main Street  
 City, State, ZIP  
 Phone: (123) 456-7890  
-Email: info@qwertydomains.com -->
+Email: info@qwertydomains.com 
 
 # Contact Us
 
@@ -43,3 +42,4 @@ Email: info@qwertydomains.com -->
         </form>
     </div>
 </div>
+-->
