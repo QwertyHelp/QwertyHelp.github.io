@@ -68,14 +68,9 @@ Highlighted are some of our Domains and their potential real-world applications.
 
 ---
 
-Here is your list arranged in numerical first, followed by alphabetical order:
+Here is the List of .COM domain names
 
-### 2-HD
-### X2ra
-### r3fr
-### r34r
-### ri4l
-### pco1
+### 2-HD      ### X2ra      ### r3fr       ### r34r      ### ri4l        ### pco1
 ### acaab
 ### aauee
 ### AinBot
