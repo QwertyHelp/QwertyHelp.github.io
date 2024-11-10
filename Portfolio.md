@@ -67,6 +67,7 @@ Highlighted are some of our Domains and their potential real-world applications.
 </details>
 
 ---  
+<br><br> 
 
 ## List of .COM Domains <br><br> 
 
