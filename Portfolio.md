@@ -8,6 +8,7 @@ permalink: /Portfolio
 
 Highlighted are some of our Domains and their potential real-world applications. The page will be updated with complete list of Domains soon!
 
+<!--
 ## Featured Domains
 
 ---
@@ -66,8 +67,8 @@ Highlighted are some of our Domains and their potential real-world applications.
   </ul>
 </details>
 
----  
-<br><br> 
+-->
+<br>
 
 ## List of .COM Domains <br><br> 
 
