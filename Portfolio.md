@@ -68,9 +68,9 @@ Highlighted are some of our Domains and their potential real-world applications.
 
 ---
 
-Here is the List of .COM domain names
+## List of .COM Domains
 
-### 2-HD      ### X2ra      ### r3fr       ### r34r      ### ri4l        ### pco1
+### 2-HD       X2ra       r3fr        r34r       ri4l        pco1
 ### acaab
 ### aauee
 ### AinBot
