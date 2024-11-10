@@ -70,7 +70,6 @@ Highlighted are some of our Domains and their potential real-world applications.
 
 ## List of .COM Domains  
 
-
 ### 2-HD &emsp; X2ra &emsp; r3fr &emsp; ri4l &emsp; pco1
 
 ### acaab
