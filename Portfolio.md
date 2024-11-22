@@ -90,7 +90,7 @@ Highlighted are some of our Domains and their potential real-world applications.
 ### Brrgr
 ### BullHR
 ### BullStocker
-### CaliforniShippers
+### CaliforniaShippers
 ### CapShark
 ### CEOat
 ### Commenttown
