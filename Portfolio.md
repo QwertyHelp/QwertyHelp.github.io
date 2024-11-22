@@ -88,7 +88,7 @@ Highlighted are some of our Domains and their potential real-world applications.
 ### braqe
 ### BrandExodus
 ### Brrgr
-### Bullhr
+### BullHR
 ### BullStocker
 ### CaliforniShippers
 ### CapShark
