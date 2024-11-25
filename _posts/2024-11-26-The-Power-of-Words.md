@@ -4,7 +4,7 @@ title: The Power of Words
 subtitle: How Academia Shapes the Language of Engineering and Society
 cover-img: assets/img/Academy-Athens.jpg
 thumbnail-img: assets/img/University.png
-share-img: assets/img/Academy-Athens.jpg
+share-img: assets/img/University.png
 author: Jaguar
 date: 2024-11-26
 tags: [academia, engineering, software, words, society]
