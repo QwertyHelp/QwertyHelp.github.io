@@ -10,7 +10,6 @@ date: 2024-11-26
 tags: [academia, engineering, software, words, society]
 ---
 
-
 In today's world, **words matter** more than ever—especially when it comes to academia. The terms and language used to define different fields not only shape the academic landscape but also influence **society’s understanding** of these disciplines. One of the most debated terms today is **"engineering"**—and how it is being metaphorically extended into areas where it may not belong, such as **software development**.
 
 But does this shift in language dilute the integrity of traditional engineering? Should we be concerned when software development is referred to as **"software engineering"**? Is this a harmless evolution of language, or does it undermine the deep, physical nature of **engineering** as we know it?
