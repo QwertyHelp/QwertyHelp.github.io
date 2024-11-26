@@ -141,6 +141,7 @@ Highlighted are some of our Domains and their potential real-world applications.
 ### sdkGPT
 ### Skidbuzz
 ### Spaiy
+### Shoqqer
 ### TexasShipper
 ### TexasShippers
 ### Tipxyz
