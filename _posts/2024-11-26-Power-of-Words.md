@@ -4,7 +4,6 @@ title: The Power of Words
 subtitle: How Academia Shapes Engineering and Society
 cover-img: assets/img/Academy-Athens.jpg
 thumbnail-img: assets/img/University.png
-share-img: assets/img/University.png
 author: Jaguar
 date: 2024-11-26
 tags: [academia, engineering, software, words, society]
@@ -49,5 +48,3 @@ The world of **software development** is important, but it does not fit the trad
 The words we use shape our understanding of the world, and academia plays a crucial role in maintaining the **clarity** of these definitions. While software development is an essential field, it should not be confused with traditional **engineering**. To preserve the **integrity** of engineering and ensure its proper place in society, we must be careful with how we use language. If we lose sight of the true meaning of words, we risk undermining both **academic rigor** and the public’s understanding of these important fields.
 
 In the end, **words matter** — and so does the clarity with which we use them.
-
----
