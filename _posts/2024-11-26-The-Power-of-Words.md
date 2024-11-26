@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Power of Words
-subtitle: How Academic Language Shapes Engineering and Society
+subtitle: How Academia's Language Shapes Engineering and Society
 author: Jaguar
 cover-img: /assets/img/Academy-Athens.jpg
 thumbnail-img: /assets/img/University.png
