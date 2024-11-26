@@ -72,7 +72,7 @@ Highlighted are some of our Domains and their potential real-world applications.
 
 ## List of .COM Domains <br><br> 
 
-### 2-HD &emsp; X2ra &emsp; r3fr &emsp; ri4l &emsp; pco1
+### 2-HD &emsp; X2ra &emsp; r3fr &emsp; ri4l &emsp; pco1 &emsp; u20b
 
 ### acaab
 ### aauee
@@ -147,7 +147,6 @@ Highlighted are some of our Domains and their potential real-world applications.
 ### Tipxyz
 ### TucsonCompany
 ### Unrollinfo
-### u2ob
 ### Veglawn
 ### VegasInsulation
 ### Warreel
