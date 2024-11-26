@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The Power of Words
-subtitle: How Academic Language Shapes Engineering and Society
+subtitle: How Academia's Language Shapes Engineering and Society
 cover-img: /assets/img/Academy-Athens.jpg
 thumbnail-img: /assets/img/University.png
 author: Jaguar
 date: 2024-11-26
-tags: [academia, engineering, software, words, society]
+tags: [Academia, Engineering, Software, Words, Society]
 ---
 
 In today's world, **words matter** more than ever—especially when it comes to academia. The terms and language used to define different fields not only shape the academic landscape but also influence **society’s understanding** of these disciplines. One of the most debated terms today is **"engineering"**—and how it is being metaphorically extended into areas where it may not belong, such as **software development**.
