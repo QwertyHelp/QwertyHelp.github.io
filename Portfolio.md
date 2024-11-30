@@ -122,8 +122,6 @@ The page will be updated with complete list of Domains soon..   Thank You for Vi
 #### Live24tv
 #### Lozyx
 #### Meguys
-#### mocqq
-#### moctt
 #### moczz
 #### NYshippers
 #### OpenTerminus
