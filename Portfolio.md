@@ -6,8 +6,8 @@ permalink: /Portfolio
 
 # Our Portfolio
 
-The page will be updated with complete list of Domains soon! 
-Thank You.
+The page will be updated with complete list of Domains soon..  
+Thank You for Visiting!
 
 <!--
 ## Featured Domains
