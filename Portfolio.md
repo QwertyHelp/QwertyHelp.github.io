@@ -6,8 +6,7 @@ permalink: /Portfolio
 
 # Our Portfolio
 
-The page will be updated with complete list of Domains soon..  
-Thank You for Visiting!
+The page will be updated with complete list of Domains soon..   Thank You for Visiting!
 
 <!--
 ## Featured Domains
@@ -73,7 +72,7 @@ Thank You for Visiting!
 
 ## List of .COM Domains <br><br> 
 
-### 2-HD &emsp; X2ra &emsp; r3fr &emsp; ri4l &emsp; pco1 &emsp; u20b
+### 2-HD &emsp; X2ra &emsp; r3fr &emsp; ri4l &emsp; pco1 &emsp; u2ob
 
 ### acaab
 ### aauee
