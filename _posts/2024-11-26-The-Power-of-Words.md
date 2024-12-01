@@ -33,11 +33,10 @@ The term *software engineering* was first widely used and promoted in the late 1
 
 1. **The NATO Software Engineering Conferences (1968 and 1969)**:  
    These conferences are considered pivotal in the formalization of the field of software engineering. They gathered experts from around the world to address the "software crisis," the difficulties related to the growing complexity of software systems. The term was popularized as a way to bring systematic and engineering-like discipline to software development. The conferences were organized by NATO and heavily influenced the academic and industry approach to software development.  
-   _Source: [Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering){:target="_blank"}_.
+ <!--  _Source: [Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering){:target="_blank"}_. -->
 
 2. **Margaret Hamilton at MIT**:  
    While the term was discussed in academic circles, Margaret Hamilton, working on the Apollo space program at MIT in the 1960s, is often credited with coining "software engineering." Her team worked on mission-critical software that required precise, reliable, and well-engineered development processes, which led to the formal use of the term within their projects.  
-   _Source: [History of Data Science](https://en.wikipedia.org/wiki/History_of_software_engineering){:target="_blank"}_.
 
 3. **Academic and Research Institutions**:  
    Universities such as Carnegie Mellon University (CMU) and Stanford University were early adopters of the software engineering term in their curriculum and research. CMU, in particular, has been a significant player in shaping the field, with its Software Engineering Institute (SEI) established in the 1980s to further research and education in the field.  
