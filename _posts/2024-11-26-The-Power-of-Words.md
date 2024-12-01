@@ -29,6 +29,20 @@ The term **"engineering"** conjures up images of complex, real-world challenges 
 
 This shift in terminology may **blur the lines** between disciplines, leading to confusion for the general public and possibly even for those within the profession itself. By calling software development **"engineering,"** are we undermining the true, technical nature of traditional engineering disciplines? Are we blurring the distinction between **abstract code** and **concrete structures**?
 
+The term *software engineering* was first widely used and promoted in the late 1960s, particularly after two key events and by certain institutions and individuals:
+
+1. **The NATO Software Engineering Conferences (1968 and 1969)**:  
+   These conferences are considered pivotal in the formalization of the field of software engineering. They gathered experts from around the world to address the "software crisis," the difficulties related to the growing complexity of software systems. The term was popularized as a way to bring systematic and engineering-like discipline to software development. The conferences were organized by NATO and heavily influenced the academic and industry approach to software development.  
+   _Source: [Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering)_.
+
+2. **Margaret Hamilton at MIT**:  
+   While the term was discussed in academic circles, Margaret Hamilton, working on the Apollo space program at MIT in the 1960s, is often credited with coining "software engineering." Her team worked on mission-critical software that required precise, reliable, and well-engineered development processes, which led to the formal use of the term within their projects.  
+   _Source: [History of Data Science](https://en.wikipedia.org/wiki/History_of_software_engineering)_.
+
+3. **Academic and Research Institutions**:  
+   Universities such as Carnegie Mellon University (CMU) and Stanford University were early adopters of the software engineering term in their curriculum and research. CMU, in particular, has been a significant player in shaping the field, with its Software Engineering Institute (SEI) established in the 1980s to further research and education in the field.  
+   _Source: [IEEE Computer Society](https://www.computer.org/education)_.
+
 ## The Dangers of Losing Clarity
 
 The **loss of clarity** in academic and professional language can have wide-reaching consequences. If the word “engineering” is no longer reserved for its traditional meaning, it may dilute the **prestige** and **importance** of the fields it was meant to represent. As **words shape our understanding of the world**, this shift can have a domino effect, impacting the way we view the **professional world** and **education**.
