@@ -69,8 +69,9 @@ The page will be updated with complete list of Domains soon..   Thank You for Vi
 
 -->
 <br>
+## List of .com Domains
 <details>
-<summary><h2> List of .com Domains</h2></summary>
+<summary>Expand to view domains</summary>
 
 <h4><a href="https://2-HD.com">2-HD</a>&emsp;<a href="https://X2ra.com">X2ra</a>&emsp;<a href="https://r3fr.com">r3fr</a>&emsp;<a href="https://ri4l.com">ri4l</a>&emsp;<a href="https://pco1.com">pco1</a>&emsp;<a href="https://u2ob.com">u2ob</a></h4>
 <h4><a href="https://acaab.com">acaab</a></h4>
