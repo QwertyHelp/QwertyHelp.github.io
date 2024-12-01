@@ -70,7 +70,7 @@ The page will be updated with complete list of Domains soon..   Thank You for Vi
 -->
 <br>
 <details>
-<summary><strong> List of .com Domains</strong></summary>
+<summary><h2> List of .com Domains</h2></summary>
 
 <h4><a href="https://2-HD.com">2-HD</a>&emsp;<a href="https://X2ra.com">X2ra</a>&emsp;<a href="https://r3fr.com">r3fr</a>&emsp;<a href="https://ri4l.com">ri4l</a>&emsp;<a href="https://pco1.com">pco1</a>&emsp;<a href="https://u2ob.com">u2ob</a></h4>
 <h4><a href="https://acaab.com">acaab</a></h4>
@@ -144,8 +144,9 @@ The page will be updated with complete list of Domains soon..   Thank You for Vi
 <h4><a href="https://Tipxyz.com">Tipxyz</a></h4>
 <h4><a href="https://TucsonCompany.com">TucsonCompany</a></h4>
 <h4><a href="https://Unrollinfo.com">Unrollinfo</a></h4>
-<h4><a href="https://Veglawn.com"
+<h4><a href="https://Veglawn.com">Veglawn</a></h4>
 </details>
+<br>
 
 <!--
 #### 2-HD &emsp; X2ra &emsp; r3fr &emsp; ri4l &emsp; pco1 &emsp; u2ob
