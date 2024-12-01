@@ -21,6 +21,28 @@ In the case of **"engineering,"** the term has long been associated with tangibl
 
 While the term has gained widespread acceptance, it brings with it certain challenges. Can **software development**, which deals with abstract code and digital systems, truly be equated with the concrete, problem-solving nature of traditional engineering? Is calling software development “engineering” more than just a **metaphorical association**?
 
+The importance of the lexicon lies in its ability to serve as a bridge for scholarly communication. Deviating from this shared understanding would threaten the integrity of intellectual exploration and undermine academia's role in advancing collective knowledge. Without it, the structure that supports rigorous analysis and intellectual pursuit could collapse, making academic discourse fragmented and less effective.
+
+<!--
+"Lexicon" refers to the vocabulary of a particular language, field, subject, or individual. It can also mean a dictionary or a collection of words and their meanings. For example:
+
+    In linguistics: The set of words used in a language (e.g., the English lexicon).
+    In a specific domain: Specialized terms in a field, like medical or legal lexicon.
+    For an individual: The words a person knows or uses.
+
+It essentially denotes a repository of words and expressions.
+You said:
+So, in the academia, lexicon is of utmost priority and absolute. if academia deviates from that path, what meaning is there left to its existence?!
+ChatGPT said:
+ChatGPT
+
+In academia, the lexicon is indeed central because it enables clear communication, precise ideas, and intellectual exchange. Academia relies on shared vocabulary to build concepts, debate theories, and create knowledge. Without a standardized lexicon, the foundation of understanding would erode, as terminology provides clarity and depth in academic discourse.
+
+If academia deviates from a consistent and rigorous lexicon, it risks losing coherence and credibility. Specialized terms and their meanings allow for nuanced exploration within disciplines, and altering or diluting these terms could lead to confusion, ambiguity, or misinterpretation of ideas. In this sense, the lexicon becomes a crucial tool for the progression and preservation of knowledge.
+
+Thus, the importance of the lexicon lies in its ability to serve as a bridge for scholarly communication. Deviating from this shared understanding would threaten the integrity of intellectual exploration and undermine academia's role in advancing collective knowledge. Without it, the structure that supports rigorous analysis and intellectual pursuit could collapse, making academic discourse fragmented and less effective.
+-->
+
 ## A Blurred Line Between Software Development and Engineering
 
 **Software engineering** has become an accepted term in the tech world, but it raises questions: Does calling something **"engineering"** imply the same level of **expertise** and **technical rigor** that we expect from engineers who design bridges, buildings, or airplanes? For many, the answer is no.
