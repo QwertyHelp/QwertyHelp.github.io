@@ -69,8 +69,8 @@ The page will be updated with complete list of Domains soon..   Thank You for Vi
 
 -->
 <br>
-
-## List of .COM Domains <br><br> 
+<details>
+<summary><strong>## List of .com Domains</strong></summary>
 
 #### 2-HD &emsp; X2ra &emsp; r3fr &emsp; ri4l &emsp; pco1 &emsp; u2ob
 
@@ -152,6 +152,7 @@ The page will be updated with complete list of Domains soon..   Thank You for Vi
 #### XRdlc
 #### XRsaga
 #### XYaiZ
+</details>
 
 Explore more about our domains and the innovative solutions they offer. For inquiries, feel free to contact us.  [Here's Our Mail](mailto:QwertyDomains@Gmail.com).
 
