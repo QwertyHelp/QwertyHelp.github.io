@@ -73,7 +73,7 @@ The page will be updated with complete list of Domains soon..   Thank You for Vi
 <details>
 <summary>Expand to view domains</summary>
 
-<h4><a href="https://2-HD.com" target="_blank">2-HD</a>&emsp;<a href="https://X2ra.com" target="_blank">X2ra</a>&emsp;<a href="https://r3fr.com" target="_blank">r3fr</a>&emsp;<a href="https://ri4l.com" target="_blank">ri4l</a>&emsp;<a href="https://pco1.com" target="_blank">pco1</a>&emsp;<a href="https://u2ob.com" target="_blank">u2ob</a></h4>
+<h4><a href="https://2-HD.com" target="_blank">2-HD</a>&emsp;<a href="https://X2ra.com" target="_blank">X2ra</a>&emsp;<a href="https://r3fr.com" target="_blank">r3fr</a>&emsp;<a href="https://ri4l.com" target="_blank">ri4l</a>&emsp;<a href="https://pco1.com" target="_blank">pco1</a>&emsp;<a href="https://u2ob.com" target="_blank">U2ob</a></h4>
 <h4><a href="https://acaab.com" target="_blank">acaab</a></h4>
 <h4><a href="https://aauee.com" target="_blank">aauee</a></h4>
 <h4><a href="https://AinBot.com" target="_blank">AinBot</a></h4>
