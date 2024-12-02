@@ -21,7 +21,7 @@ In the case of **"engineering,"** the term has long been associated with tangibl
 
 While the term has gained widespread acceptance, it brings with it certain challenges. Can **software development**, which deals with abstract code and digital systems, truly be equated with the concrete, problem-solving nature of traditional engineering? Is calling software development “engineering” more than just a **metaphorical association**?
 
-Thus, the importance of the lexicon lies in its ability to serve as a bridge for scholarly communication. Deviating from this shared understanding would threaten the integrity of intellectual exploration and undermine academia's role in advancing collective knowledge. Without it, the structure that supports rigorous analysis and intellectual pursuit could collapse, making academic discourse fragmented and less effective.
+The importance of the lexicon lies in its ability to serve as a bridge for scholarly communication. Deviating from this shared understanding would threaten the integrity of intellectual exploration and undermine academia's role in advancing collective knowledge. Without it, the structure that supports rigorous analysis and intellectual pursuit could collapse, making academic discourse fragmented and less effective.
 
 <!--
 "Lexicon" refers to the vocabulary of a particular language, field, subject, or individual. It can also mean a dictionary or a collection of words and their meanings. For example:
