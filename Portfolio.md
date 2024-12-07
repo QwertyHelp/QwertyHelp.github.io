@@ -76,6 +76,7 @@ The page will be updated with complete list of Domains soon..   Thank You for Vi
   
 <h4><a href="https://NeuroLogical.AI" target="_blank">NeuroLogical.AI</a></h4> - <em>"Where Mind meets Machine"</em>
 <h4><a href="https://AinBot.com" target="_blank">AinBot.com</a></h4> - <b>AI and Robotics</b>
+<h4><a href="https://Aiing.org" target="_blank">Aiing.org</a></h4> - <em>"Evolving AI. Enhancing Life."</em>
 <h4><a href="https://GrandExodus.com" target="_blank">GrandExodus.com</a></h4> - <em>"The Pinnacle of Luxury"</em>
 <h4><a href="https://EXIM.VC" target="_blank">EXIM.VC</a></h4> - <strong>Export Import Venture Capital</strong>
 <h4><a href="https://SDKGPT.com" target="_blank">SDKGPT.com</a></h4> - <b>GPT Software Development Kit</b>
