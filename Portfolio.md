@@ -82,7 +82,7 @@ The page will be updated with complete list of Domains soon..   Thank You for Vi
 <h4><a href="https://Axzyl.com" target="_blank">Axzyl</a></h4>
 <h4><a href="https://BAEing.com" target="_blank">BAEing</a></h4>
 <h4><a href="https://BetGull.com" target="_blank">BetGull</a></h4>
-<h4><a href="https://bidDNS.com" target="_blank">bidDNS</a></h4>
+<h4><a href="https://BidDNS.com" target="_blank">BidDNS</a></h4>
 <h4><a href="https://Bottyl.com" target="_blank">Bottyl</a></h4>
 <h4><a href="https://Bottail.com" target="_blank">Bottail</a></h4>
 <h4><a href="https://braqe.com" target="_blank">braqe</a></h4>
