@@ -78,7 +78,7 @@ The page will be updated with complete list of Domains soon..   Thank You for Vi
 <h4><a href="https://AinBot.com" target="_blank">AinBot.com</a></h4> - <b>AI and Robotics</b>
 <h4><a href="https://GrandExodus.com" target="_blank">GrandExodus.com</a></h4> - <em>"The Pinnacle of Luxury"</em>
 <h4><a href="https://EXIM.VC" target="_blank">EXIM.VC</a></h4> - <strong>Export Import Venture Capital</strong>
-<h4><a href="https://SDKGPT.com" target="_blank">SDKGPT.com</a></h4> - GPT Software Development Kit
+<h4><a href="https://SDKGPT.com" target="_blank">SDKGPT.com</a></h4> - <b>GPT Software Development Kit</b>
 <h4><a href="https://Silicon.VIP" target="_blank">Silicon.VIP</a></h4> - <em>"Edge of Tech for the Elite"</em>
 <h4><a href="https://TtoV.AI" target="_blank">TtoV.AI</a></h4> - Text to Video.. or evenmore, Text/Tune/Thumbnail to Video
 </details>
