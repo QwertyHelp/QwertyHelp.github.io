@@ -6,7 +6,7 @@ permalink: /Portfolio
 
 # Our Portfolio
 
-Note:: The page will be updated with complete list of Domains gradually..   Thank You for the visit!
+Note:: The Complete list of Domains will be added gradually..  Thanks for the visit!
 
 <!--
 ## Featured Domains
